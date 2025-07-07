@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://me.tuannat.dev](https://me.tuannat.dev)
 
-- 📝 I regularly write articles on [https://blog.tuannat.dev](https://blog.tuannat.dev)
-
 - 📫 How to reach me **me@tuannat.dev**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tuannat/](https://www.linkedin.com/in/tuannat/)
