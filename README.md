@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with [Tamara](https://tamara.co)
 
-- 👨‍💻 All of my projects are available at [https://me.tuannat.dev](https://me.tuannat.dev)
+- 👨‍💻 All of my projects are available at [https://me.tuannat.dev](https://tuannat.dev)
 
 - 📫 How to reach me **me@tuannat.dev**
 
